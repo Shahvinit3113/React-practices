@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "3",
+      "name": "vinit",
+      "username": "Vinit31",
+      "email": "shahvinit@gmail.com",
+      "phone": "+91 8469514453"
+    },
+    {
+      "id": "4",
+      "name": "rutu",
+      "username": "Rutu31",
+      "email": "rutushree@gmail.com",
+      "phone": "+91 9054904541"
+    },
+    {
+      "id": "5",
+      "name": "vinit",
+      "username": "Vinit31",
+      "email": "shahvinit@gmail.com",
+      "phone": "+91 8469514453"
+    },
+    {
+      "id": "6",
+      "name": "rutu",
+      "username": "Rutu31",
+      "email": "rutushree@gmail.com",
+      "phone": "+91 9054904541"
+    },
+    {
+      "id": "e9f4",
+      "name": "Yash",
+      "email": "yashsuthar352@gmail.com",
+      "phone": "7990603704"
+    },
+    {
+      "id": "023d",
+      "name": "dadi",
+      "email": "yashsuthar352@gmail.com",
+      "phone": "7990603704"
+    }
+  ]
+}

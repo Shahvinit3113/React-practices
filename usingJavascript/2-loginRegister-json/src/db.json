@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "b35a",
+      "fname": "vinit",
+      "lname": "shah",
+      "email": "shahvinit31200331@gmail.com",
+      "password": "123456",
+      "Cpassword": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "c4d7",
+      "fname": "rutu",
+      "lname": "bhavsar",
+      "email": "rutu@gmail.com",
+      "password": "123456",
+      "Cpassword": "123456",
+      "role": ""
+    }
+  ]
+}
